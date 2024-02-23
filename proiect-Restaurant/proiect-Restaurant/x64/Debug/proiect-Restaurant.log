@@ -1,0 +1,11 @@
+﻿  proiect-Restaurant.cpp
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(1386,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(121): warning C4715: 'Stoc2::getStocIngredient': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(509): warning C4715: 'Preparat::getPret': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(240): warning C4715: 'Reteta::getListaIngrediente': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(499): warning C4715: 'Preparat::getCantitate': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(487): warning C4715: 'Preparat::getDenumire': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(257): warning C4715: 'Reteta::getNrIngrediente': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(263): warning C4715: 'Reteta::getCantitateReteta': not all control paths return a value
+C:\Users\alexb\source\repos\proiect-Restaurant\proiect-Restaurant\proiect-Restaurant.cpp(183): warning C4715: 'Stoc2::operator-=': not all control paths return a value
+  proiect-Restaurant.vcxproj -> C:\Users\alexb\source\repos\proiect-Restaurant\x64\Debug\proiect-Restaurant.exe
